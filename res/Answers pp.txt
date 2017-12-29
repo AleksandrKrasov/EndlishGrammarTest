@@ -1,0 +1,11 @@
+changed has_changed have_changed
+found has_found had_found
+have_not_considered did_not_consider not_considered
+went was has_gone
+were have_been are
+was has_been have_been
+revived has_revived have_revived
+Did...hear Have...heard Was...hear
+did...do have...done are...do
+have_known knowed knew
+3 1 1 3 2 2 3 2 2 1
